@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "UserDefaultsHelper"
-  spec.version      = "0.0.1"
+  spec.version      = "1.0.0"
   spec.summary      = "账户偏好设置"
 
   # This description is used to generate tags and improve search results.
@@ -96,7 +96,7 @@ Pod::Spec.new do |spec|
 
   # spec.public_header_files = "Classes/**/*.h"
 
-  s.requires_arc = true
+  # s.requires_arc = true
   # ――― Resources ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
   #  A list of resources included with the Pod. These are copied into the
